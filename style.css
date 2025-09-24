@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.my-article{
+    width: 100%;
+    height: auto;
+    background-color:#bb9457;
+    color: black;
+}
+
+.header-elements{
+    margin-bottom: 1rem;
+    text-align: center;
+    font-family: poppins, sans-serif;
+    margin: auto;    
+}
+
+.name{
+  padding: 14px;
+  font-size: 3em;
+  color: #283618;
+}
+
+.youssou{
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+
+.main-content{
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  width: 50%;
+}
+h1{
+  font-size: 3em;
+  padding: 10px;
+  font-weight: bold;
+}
+h2{
+  font-size: 2.5em;
+  padding: 10px;
+  font-weight: bold;
+}
+p{
+  font-size: 22px;
+  gap: 10px;
+}
+
+a{
+  color: #03045e;
+}
+a:hover{
+  color: #02c39a;
+}
+.image{
+  max-width: 50%;
+}
